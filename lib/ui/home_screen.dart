@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
             height: 16,
           ),
           Text(
-            "Altop",
+            "raji",
             style: GoogleFonts.plusJakartaSans(
                 color: Colors.black, fontWeight: FontWeight.bold),
           ),
